@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "FaMapMarkerAlt",
+    "title": "Find us",
+    "details": "Pune, Maharashtra"
+  },
+  {
+    "icon": "FaPhoneAlt",
+    "title": "Call us",
+    "details": "9876543211"
+  },
+  {
+    "icon": "FaEnvelope",
+    "title": "Mail us",
+    "details": "architsingh572@gmail.com"
+  },
+  {
+    "icon": "FaGlobe",
+    "title": "Visit us",
+    "details": "surmalarchit682@gmail.com"
+  }
+]
